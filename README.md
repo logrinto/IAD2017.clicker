@@ -1,1 +1,1 @@
-# IAD2017.clicker
+# IAD2017.clicker-game
