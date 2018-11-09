@@ -6,3 +6,7 @@
 	path = docs/nils
 	url = https://github.com/NMA93/doener_bude_clicker.git
 	branch = master
+[submodule "docs/Marc"]
+	path = docs/Marc
+	url = https://github.com/marc-hatt/cookie-mania.git
+	branch = gh-pages
