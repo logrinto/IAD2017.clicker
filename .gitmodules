@@ -22,3 +22,7 @@
 	path = docs/stephanie
 	url = https://github.com/stfffchs/cookieclicker.git
 	branch = gh-pages
+[submodule "docs/matthias"]
+	path = docs/matthias
+	url = https://github.com/matthiasmeierkoch/clickcounter.git
+	branch = gh-pages
