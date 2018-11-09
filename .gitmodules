@@ -18,3 +18,7 @@
 	path = docs/lars
 	url = https://github.com/larsmaeder/cookie-counter.git
 	branch = gh-pages
+[submodule "docs/stephanie"]
+	path = docs/stephanie
+	url = https://github.com/stfffchs/cookieclicker.git
+	branch = gh-pages
