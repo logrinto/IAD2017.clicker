@@ -2,7 +2,3 @@
 	path = docs/-example
 	url = https://github.com/signalwerk/cookie-clicker.git
 	branch = gh-pages
-[submodule "docs/stephanie"]
-	path = docs/stephanie
-	url = https://github.com/stfffchs/cookieclicker.git
-	branch = gh-pages
