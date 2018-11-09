@@ -10,3 +10,7 @@
 	path = docs/Marc
 	url = https://github.com/marc-hatt/cookie-mania.git
 	branch = gh-pages
+[submodule "docs/tieu"]
+	path = docs/tieu
+	url = https://github.com/tioemayer/bubble-clicker.git
+	branch = gh-pages
