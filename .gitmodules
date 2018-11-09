@@ -2,3 +2,7 @@
 	path = docs/-example
 	url = https://github.com/signalwerk/cookie-clicker.git
 	branch = gh-pages
+[submodule "clickcounter"]
+	path = clickcounter
+	url = https://github.com/matthiasmeierkoch/clickcounter.git
+	branch = gh-pages
