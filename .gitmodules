@@ -14,3 +14,7 @@
 	path = docs/tieu
 	url = https://github.com/tioemayer/bubble-clicker.git
 	branch = gh-pages
+[submodule "docs/lars"]
+	path = docs/lars
+	url = https://github.com/larsmaeder/cookie-counter.git
+	branch = gh-pages
