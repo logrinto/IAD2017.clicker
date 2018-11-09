@@ -6,3 +6,7 @@
 	path = clickcounter
 	url = https://github.com/matthiasmeierkoch/clickcounter.git
 	branch = gh-pages
+[submodule "docs/lars"]
+	path = docs/lars
+	url = https://github.com/larsmaeder/cookie-counter.git
+	branch = gh-pages
