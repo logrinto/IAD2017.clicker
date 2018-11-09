@@ -10,3 +10,7 @@
 	path = docs/lars
 	url = https://github.com/larsmaeder/cookie-counter.git
 	branch = gh-pages
+[submodule "docs/{Marc}"]
+	path = docs/{Marc}
+	url = https://github.com/marc-hatt/cookie-mania.git
+	branch = gh-pages
