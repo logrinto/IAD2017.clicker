@@ -26,3 +26,7 @@
 	path = docs/matthias
 	url = https://github.com/matthiasmeierkoch/clickcounter.git
 	branch = gh-pages
+[submodule "docs/marius"]
+	path = docs/marius
+	url = https://github.com/mariusbecker/1932.git
+	branch = gh-pages
