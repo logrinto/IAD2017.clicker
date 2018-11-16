@@ -30,3 +30,7 @@
 	path = docs/marius
 	url = https://github.com/mariusbecker/1932.git
 	branch = gh-pages
+[submodule "docs/severin"]
+	path = docs/severin
+	url = https://github.com/severinkilchhofer/city-builder.git
+	branch = gh-pages
