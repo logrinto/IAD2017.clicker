@@ -34,3 +34,7 @@
 	path = docs/severin
 	url = https://github.com/severinkilchhofer/city-builder.git
 	branch = gh-pages
+[submodule "docs/pascale"]
+	path = docs/pascale
+	url = https://github.com/pascaleva/spacecat.git
+	branch = gh-pages
