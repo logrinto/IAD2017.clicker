@@ -34,3 +34,7 @@
 	path = docs/pascale
 	url = https://github.com/pascaleva/spacecat.git
 	branch = gh-pages
+[submodule "docs/marc"]
+	path = docs/marc
+	url = https://github.com/marc-hatt/cookie-mania.git
+	branch = gh-pages
