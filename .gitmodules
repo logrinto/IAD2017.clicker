@@ -6,10 +6,6 @@
 	path = docs/nils
 	url = https://github.com/NMA93/doener_bude_clicker.git
 	branch = master
-[submodule "docs/marc"]
-	path = docs/marc
-	url = https://github.com/marc-hatt/cookie-mania.git
-	branch = gh-pages
 [submodule "docs/tieu"]
 	path = docs/tieu
 	url = https://github.com/tioemayer/bubble-clicker.git
@@ -37,8 +33,4 @@
 [submodule "docs/pascale"]
 	path = docs/pascale
 	url = https://github.com/pascaleva/spacecat.git
-	branch = gh-pages
-[submodule "docs/marc"]
-	path = docs/marc
-	url = https://github.com/marc-hatt/cookie-mania
 	branch = gh-pages
