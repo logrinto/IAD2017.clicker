@@ -1,7 +1,7 @@
-[submodule "docs/-example"]
-	path = docs/-example
-	url = https://github.com/signalwerk/cookie-clicker.git
-	branch = gh-pages
+#[submodule "docs/-example"]
+#	path = docs/-example
+#	url = https://github.com/signalwerk/cookie-clicker.git
+#	branch = gh-pages
 [submodule "docs/nils"]
 	path = docs/nils
 	url = https://github.com/NMA93/doener_bude_clicker.git
