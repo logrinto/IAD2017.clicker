@@ -1,15 +1,11 @@
-[submodule "docs/-example"]
-	path = docs/-example
-	url = https://github.com/signalwerk/cookie-clicker.git
-	branch = gh-pages
+#[submodule "docs/-example"]
+#	path = docs/-example
+#	url = https://github.com/signalwerk/cookie-clicker.git
+#	branch = gh-pages
 [submodule "docs/nils"]
 	path = docs/nils
 	url = https://github.com/NMA93/doener_bude_clicker.git
 	branch = master
-[submodule "docs/Marc"]
-	path = docs/Marc
-	url = https://github.com/marc-hatt/cookie-mania.git
-	branch = gh-pages
 [submodule "docs/tieu"]
 	path = docs/tieu
 	url = https://github.com/tioemayer/bubble-clicker.git
@@ -40,5 +36,5 @@
 	branch = gh-pages
 [submodule "docs/marc"]
 	path = docs/marc
-	url = https://github.com/marc-hatt/cookie-mania
+	url = https://github.com/marc-hatt/cookie-mania.git
 	branch = gh-pages
