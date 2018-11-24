@@ -38,7 +38,3 @@
 	path = docs/marc
 	url = https://github.com/marc-hatt/cookie-mania.git
 	branch = gh-pages
-[submodule "docs/wolfgang"]
-	path = docs/wolfgang
-	url = https://github.com/wschoeck/Calculator.git
-	branch = gh-pages
